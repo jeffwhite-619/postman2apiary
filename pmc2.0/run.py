@@ -1,6 +1,6 @@
 import sys
 from random import randint
-from converter import PostmanToApiary
+from postman2apiary import PostmanToApiary
 
 
 def msg():

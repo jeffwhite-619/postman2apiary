@@ -10,8 +10,7 @@ Expected output should be something like [Polls api documentation](https://apibl
 
 ## Installation
     
-    git clone https://github.com/p8ul/postman2apiary.git
-    cd postman2apiary/app
+    git clone https://github.com/jeffwhite-619/postman2apiary.git
     
 ## Usage
     CLI application Application takes three arguments.
@@ -25,4 +24,4 @@ Contributions are greatly appreciated. What is most lacking is indentation on re
 Tests would be super-greatly appreciated too.
 
 ### License
-Postman2apiary is [MIT Licensed](https://github.com/p8ul/postman2apiary/blob/master/LICENSE)
+Postman2apiary is [MIT Licensed](https://github.com/jeffwhite-619/postman2apiary/blob/master/LICENSE)

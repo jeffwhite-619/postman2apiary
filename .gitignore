@@ -3,5 +3,6 @@
 !.gitignore
 *.log
 *.pyc
+collections/*
 
 __pycache__/
